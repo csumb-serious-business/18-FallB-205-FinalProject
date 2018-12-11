@@ -1,0 +1,7 @@
+# jetbrains
+.idea
+venv # python interpreter
+
+
+# compiled output
+*.pyc
