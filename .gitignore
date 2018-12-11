@@ -1,6 +1,8 @@
 # jetbrains
 .idea
-venv # python interpreter
+# python interpreter
+venv
+
 
 
 # compiled output
